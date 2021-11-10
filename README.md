@@ -1,6 +1,8 @@
-# Data-analytic-repository.-Home-World
+# DA Project. Retail: Assessing the performance of retail outlets with Python.
 
-## Overview
-*DA project for the building-material retailer Home World. All of its customers have membership cards. Moreover, they can become members of the store's loyalty program for 20USD per month. The program  includes discounts, information on special offers, and gifts.
+
+*We evaluated the effectiveness of the outlets Home World with the help of the shopping database. We found the best customers, checked the effective of loyalty program. 
+We also made dashboards : the number of customers with and without the loyalty program in each store; the ratio of customers with and without the loyalty program in each store; the share of purchases in each store
+
 
 ### File contains Jupiter Notebook, PDF file, Tableau. Language Python.
